@@ -52,10 +52,6 @@ matplotlib	Real-time visualization & 3D plots
 scikit-learn	Dataset generation (make_moons)
 IPython.display	Live animation in Jupyter
 
-📦 Installation
-git clone https://github.com/your-username/Neural-Network-Training-Animator.git
-cd Neural-Network-Training-Animator
-pip install -r requirements.txt
 
 requirements.txt
 numpy
