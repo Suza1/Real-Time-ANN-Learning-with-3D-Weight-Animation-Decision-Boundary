@@ -36,22 +36,30 @@ Zero dependencies beyond NumPy, Matplotlib, Scikit-Learn
 The project uses:
 
 1️⃣ Input Layer: 2 Features
+
 2️⃣ Hidden Layer: 6 Neurons (Sigmoid)
+
 3️⃣ Output Layer: 1 Neuron (Binary Classification)
 
 The visualization updates every 5 epochs.
 
 # 🧩 Technologies Used
 Library	Purpose
+
 numpy	ANN math & backprop
+
 matplotlib	Real-time visualization & 3D plots
+
 scikit-learn	Dataset generation (make_moons)
+
 IPython.display	Live animation in Jupyter
 
 
 # requirements.txt
 numpy
+
 matplotlib
+
 scikit-learn
 
 # ▶️ Run the Project
